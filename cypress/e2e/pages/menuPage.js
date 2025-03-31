@@ -1,4 +1,4 @@
-class MenuPage {
+class menuPage {
 
     selectorsList() {
         const selectors = {
@@ -19,4 +19,4 @@ accessorPerformance(){
 
 }
 
-export default MenuPage
+export default menuPage
